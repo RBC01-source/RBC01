@@ -4,4 +4,4 @@ Maqueta clicable del recorrido de un cliente de SST Pymes Perú: oferta y planes
 
 Todo usa datos de ejemplo. No envía correos, no cobra y no guarda nada.
 
-Para verla en línea: Settings, Pages, rama `main`, carpeta `/ (root)`.
+Ver en línea: https://rbc01-source.github.io/SST/
